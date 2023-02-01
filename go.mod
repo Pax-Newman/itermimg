@@ -1,4 +1,4 @@
-module img
+module github.com/Pax-Newman/itermimg
 
 go 1.19
 
