@@ -1,9 +1,9 @@
 /*
 Copyright © 2023 Pax Newman pax.newman@gmail.com
 */
-package itermimg
+package main
 
-import "img/cmd"
+import "github.com/Pax-Newman/itermimg/cmd"
 
 func main() {
 	cmd.Execute()
