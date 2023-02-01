@@ -1,7 +1,7 @@
 /*
 Copyright © 2023 Pax Newman pax.newman@gmail.com
 */
-package main
+package itermimg
 
 import "img/cmd"
 
